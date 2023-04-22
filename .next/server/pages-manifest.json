@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/dishes": "pages/api/dishes.js",
+  "/404": "pages/404.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/categories": "pages/api/categories.js",
+  "/admin/dashboard": "pages/admin/dashboard.js",
+  "/api/admin/active-orders": "pages/api/admin/active-orders.js",
+  "/admin/categories": "pages/admin/categories.js",
+  "/api/admin/categories": "pages/api/admin/categories.js"
+}
