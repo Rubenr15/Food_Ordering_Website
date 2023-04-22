@@ -1,14 +1,14 @@
 {
-  "..\\..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
-    "id": "./node_modules/next/dist/client/dev/noop.js",
+  "..\\components\\Menu\\Menu.js -> fuse.js": {
+    "id": 4221,
     "files": [
-      "static/chunks/node_modules_next_dist_client_dev_noop_js.js"
+      "static/chunks/221.bf2aae9b5aa23f04b0ef.js"
     ]
   },
-  "..\\components\\Menu\\Menu.js -> fuse.js": {
-    "id": "./node_modules/fuse.js/dist/fuse.esm.js",
+  "admin\\dishes.js -> fuse.js": {
+    "id": 4221,
     "files": [
-      "static/chunks/node_modules_fuse_js_dist_fuse_esm_js.js"
+      "static/chunks/221.bf2aae9b5aa23f04b0ef.js"
     ]
   }
 }
